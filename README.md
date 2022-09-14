@@ -5,7 +5,7 @@ Upload apps to Saucelabs
 
 The following variablens needs to be set fot the authentication:
 
-- SAUCELABS_USERNAME: 
+- SAUCELABS_USERNAME 
 - SAUCELABS_ACCESS_KEY
 
 The variable values can be found on Sauce Labs user settings.
